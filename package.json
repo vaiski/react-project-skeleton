@@ -1,0 +1,51 @@
+{
+  "name": "react-skeleton",
+  "version": "0.1.0",
+  "description": "React project skeleton",
+  "main": "app/main.js",
+  "scripts": {
+    "test": "gulp lint test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaiski/react-skeleton"
+  },
+  "keywords": [
+    "react",
+    "project",
+    "skeleton",
+    "es6",
+    "gulp",
+    "mocha",
+    "yuidoc"
+  ],
+  "author": "Eemil Väisänen <eemil.vaisanen@iki.fi>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaiski/react-skeleton/issues"
+  },
+  "homepage": "https://github.com/vaiski/react-skeleton",
+  "dependencies": {
+    "react": "^0.13.3",
+    "react-document-title": "^1.0.2"
+  },
+  "devDependencies": {
+    "babel": "^5.8.12",
+    "babelify": "^6.1.3",
+    "browser-sync": "^2.8.1",
+    "browserify": "^11.0.0",
+    "chai": "^3.2.0",
+    "eslint": "^0.24.1",
+    "eslint-plugin-react": "^3.1.0",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^0.15.0",
+    "gulp-istanbul": "^0.10.0",
+    "gulp-mocha": "^2.1.3",
+    "gulp-yuidoc": "^0.1.2",
+    "isparta": "^3.0.3",
+    "istanbul": "^0.3.17",
+    "mocha": "^2.2.5",
+    "vinyl-source-stream": "^1.1.0",
+    "yuidoc-lucid-theme": "^0.1.1"
+  }
+}
