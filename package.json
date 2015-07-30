@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/vaiski/react-skeleton",
   "dependencies": {
+    "backbone": "^1.2.1",
     "react": "^0.13.3",
     "react-document-title": "^1.0.2"
   },
